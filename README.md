@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Mahwish Fatima 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Mahwish+Fatima;Top+106+Google+Solution+Challenge+2026;Creator+of+ALLOCARE;Building+AI+for+Social+Impact" />
