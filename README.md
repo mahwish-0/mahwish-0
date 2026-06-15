@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'm Mahwish Fatima 👋</h1>
 
-<h3 align="center">
-Building AI-Powered Solutions for Social Impact
-
-Top 106 • Google Solution Challenge 2026
-Creator of ALLOCARE
-Flutter • Firebase • Vertex AI • Gemini</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Mahwish+Fatima;Top+106+Google+Solution+Challenge+2026;Creator+of+ALLOCARE;Building+AI+for+Social+Impact" />
+</p>
 
 <p align="center">
 I design and build purposeful digital products that combine clean UI, strong frontend development, and AI-powered problem solving to create real-world impact.
@@ -26,16 +23,33 @@ I design and build purposeful digital products that combine clean UI, strong fro
 ## 💻 Tech Stack
 
 ### Frontend & Mobile
-`Flutter` `HTML` `CSS` `JavaScript` `Bootstrap`
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Database
-`Python` `Django` `Firebase` `Firestore` `SQLite`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### AI & Cloud
-`Gemini AI` `Vertex AI` `Google Cloud`
+
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Design & Tools
-`Figma` `Git` `GitHub` `VS Code`
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -82,14 +96,11 @@ Enables instant SOS alerts, live location sharing, offline emergency activation,
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahwish-0&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahwish-0&layout=compact&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahwish-0&hide_border=true" />
 </p>
 
 ---
