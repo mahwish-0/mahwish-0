@@ -53,27 +53,13 @@ I design and build purposeful digital products that combine clean UI, strong fro
 
 ---
 
-## Featured Projects
-
-### ALLOCARE
-
-**AI-Powered Community Intelligence for Smarter Humanitarian Response**
-Transforms fragmented community data into actionable intelligence through early risk detection, smart volunteer matching, and equitable resource allocation.
-
-### StudySync AI
-
-**AI-Powered Personalized Learning Platform**
-Helps students learn more effectively through intelligent study assistance, personalized recommendations, and AI-driven academic support.
-
-### eVault
-
-**Secure Password Management Platform**
-Provides encrypted credential storage, password generation, authentication, and security-focused password management.
-
-### HAVEN+
-
-**Smart Safety & Emergency Response Platform**
-Enables instant SOS alerts, live location sharing, offline emergency activation, and rapid response for women and elderly users.
+| Project | Description |
+|----------|------------|
+| ALLOCARE | AI-Powered Crisis Response Platform |
+| StudySync AI | AI Academic Assistant |
+| SecureHer | Women & Elder Safety App |
+| Result Analysis System | Academic Analytics Platform |
+| eVault | Password Manager |
 
 ---
 
