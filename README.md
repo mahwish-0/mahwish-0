@@ -13,7 +13,7 @@ I design and build purposeful digital products that combine clean UI, strong fro
 ##  About Me
 
 -  CSE student passionate about building meaningful technology  
--  Full-stack developer with strong interest in **frontend, UI/UX, and product design**
+-  Full-stack developer with strong interest in **Problem solving, UI/UX, and product design**
 -  Exploring **AI-powered applications** for social impact and real-world problem solving
 -  Currently building **Allocare**, an AI-based smart resource allocation platform
 -  Focused on creating solutions that are **usable, scalable, accessible, and impactful**
