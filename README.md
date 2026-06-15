@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Mahwish Fatima 👋</h1>
 
 <h3 align="center">
-Full-Stack Developer | UI/UX & Frontend Specialist | Innovation-Driven Problem Solver
-</h3>
+Building AI-Powered Solutions for Social Impact
+
+Top 106 • Google Solution Challenge 2026
+Creator of ALLOCARE
+Flutter • Firebase • Vertex AI • Gemini</h3>
 
 <p align="center">
 I design and build purposeful digital products that combine clean UI, strong frontend development, and AI-powered problem solving to create real-world impact.
@@ -30,6 +33,15 @@ I design and build purposeful digital products that combine clean UI, strong fro
 
 ### AI & Tools
 `Gemini AI` `Machine Learning Basics` `GitHub` `VS Code`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahwish-0&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahwish-0&layout=compact&hide_border=true" />
+</p>
 
 ---
 
