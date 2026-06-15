@@ -23,25 +23,19 @@ I design and build purposeful digital products that combine clean UI, strong fro
 
 ---
 
-##  Tech Stack
+## 💻 Tech Stack
 
-### Frontend & UI
-`HTML` `CSS` `JavaScript` `Bootstrap` `Flutter` `Figma`
+### Frontend & Mobile
+`Flutter` `HTML` `CSS` `JavaScript` `Bootstrap`
 
 ### Backend & Database
 `Python` `Django` `Firebase` `Firestore` `SQLite`
 
-### AI & Tools
-`Gemini AI` `Machine Learning Basics` `GitHub` `VS Code`
+### AI & Cloud
+`Gemini AI` `Vertex AI` `Google Cloud`
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahwish-0&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahwish-0&layout=compact&hide_border=true" />
-</p>
+### Design & Tools
+`Figma` `Git` `GitHub` `VS Code`
 
 ---
 
@@ -85,6 +79,18 @@ Enables instant SOS alerts, live location sharing, offline emergency activation,
 - Building high-quality portfolio projects  
 - Exploring AI integration in real-world applications  
 - Participating in hackathons and innovation challenges  
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahwish-0&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahwish-0&layout=compact&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahwish-0&hide_border=true" />
+</p>
 
 ---
 
