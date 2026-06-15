@@ -33,21 +33,27 @@ I design and build purposeful digital products that combine clean UI, strong fro
 
 ---
 
-##  Featured Project
+## Featured Projects
 
-###  Allocare  
-**AI-Powered Smart Resource Allocation for Crisis Response**
+### ALLOCARE
 
-Allocare transforms fragmented field reports into structured insights and helps NGOs allocate healthcare, food, and mental support fairly during crises.
+**AI-Powered Community Intelligence for Smarter Humanitarian Response**
+Transforms fragmented community data into actionable intelligence through early risk detection, smart volunteer matching, and equitable resource allocation.
 
-**Key Highlights:**
-- AI-based risk prediction  
-- Smart resource allocation  
-- Geo-intelligent mapping  
-- Volunteer assignment system  
-- Real-time reporting and insights  
+### StudySync AI
 
-> **Vision:** Right Help. Right Place. Right Time.
+**AI-Powered Personalized Learning Platform**
+Helps students learn more effectively through intelligent study assistance, personalized recommendations, and AI-driven academic support.
+
+### eVault
+
+**Secure Password Management Platform**
+Provides encrypted credential storage, password generation, authentication, and security-focused password management.
+
+### HAVEN+
+
+**Smart Safety & Emergency Response Platform**
+Enables instant SOS alerts, live location sharing, offline emergency activation, and rapid response for women and elderly users.
 
 ---
 
